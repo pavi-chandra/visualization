@@ -11,20 +11,37 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+The Good: 
+
+https://public.tableau.com/app/profile/hh6696/viz/IronVizPoliticsEntry/Ideology
+
+I think this is a good example of a visualization that is structured and effectively communicates the story.  It illustrates the ideological differences in the US Senate over time, showing the majority party, the numbers of bills introduced, passed and bill passage percentage over the 1947 to 2012.  The graph includes comments that examples the meaning of the line colour, length and thickness, which helps the reader interpret the graphs accurately.  
+
+The dashboard also identifies the data courses used to calculate the ideology scores (though the link in the chart is no longer active, it’s easy find the URL) and the legislate data would be available from public records.  This transparency of the data sources makes it reproducible and thus increased credibility.   Aesthetically, the design is clean and simple, allowing the substantive data to stand out.  It used colours that already have associated with the republican and democratic parties. 
+
+The visualization enables readers to explore the data and research the similar conclusions that ideological differences has widen over time and the percentage of bill passed has also increased.  Some key facts are highlighted in way that guides the reader without imposing an opinion. Overall, I think it’s strong example of neutral visualization that successful conveys it’s intent purpose of showing the long-term trends in Senate productivity against the ideological change. 
 
 
 
 
+ Bad:
+https://www.worldatlas.com/crime/countries-that-have-produced-the-most-serial-killers.html
 
+The visualization isn’t a strong example. It doesn’t include any data source, methodology or definition of what counts as a ‘serial killer’ which makes it impossible to verify or reproduce.  Different countries have different legal definition and reporting standards, so without clarifications, it’s hard to understand what the numbers represent or how they were complied.  That lack of transparency creates issues with reproducibility and credibility.  
 
+The bar graph uses raw counts rather than per capita. It is normal to assume that larger countries will have more serial killers than smaller counties. Thus, comparing raw total isn’t fair or meaningful. Use the per capita rate or some other form or normalization would be a better bases for comparison.
+
+The map also has some issues. The dots on the world are not sale in a meaningful way or explained.  For example, Canda’s dot appears bigger than US which would suggests Canada has more serial killers, but this contradicts the bar graph.  The dots also don’t seem to represent per capita either.  As there is no legend or explanation of the dots and how they are sized, it introduces  unnecessary cognitive load and makes it difficult to interrupt the bar chart and map. 
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
-
-
-
+This bad visualization can be improved by:
+-	Including source, definition, methodology on the numbers including the time frame where the data was collected support replicability and reproducibility 
+-	Use serial killer per capital instead of raw counts allows the data to be standardizing thus make meaningful comprising between countries with such different populations 
+-	Label the axis to understand the measurement
+-	If including the map, then include the meaning and the ratio 
 
 
 
